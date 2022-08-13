@@ -1,0 +1,66 @@
+{
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Programador Java"
+      },
+      {
+        "id": 2,
+        "titulo": "Dev. Front-End"
+      },
+      {
+        "id": 3,
+        "titulo": "Analista de Dados"
+      },
+      {
+        "id": 4,
+        "titulo": "Professor Excel"
+      },
+      {
+        "id": 5,
+        "titulo": "Dev. Back-End"
+      }
+    ],
+    "candidatos": [
+      {
+        "nome": "Tiago Bezerra dos Santos",
+        "data": "1983-09-24",
+        "telefone": "11 2222 3333",
+        "email": "tiago@gmail.com",
+        "vaga": "Dev. Front-End",
+        "id": 1
+      },
+      {
+        "nome": "Mônica",
+        "data": "2010-10-10",
+        "telefone": "11 5555-4444",
+        "email": "tiago@gmail.com",
+        "vaga": "Programador Java",
+        "id": 2
+      },
+      {
+        "nome": "Geddy Lee",
+        "data": "2007-10-20",
+        "telefone": "(11) 1111-1111",
+        "email": "geddy@hotmail.com",
+        "vaga": "Dev. Back-End",
+        "id": 3
+      },
+      {
+        "nome": "Jon Oliva",
+        "data": "1950-12-10",
+        "telefone": "11 7777-7777",
+        "email": "jon@oliva.com",
+        "vaga": "Professor Excel",
+        "id": 4
+      },
+      {
+        "nome": "Mônica",
+        "data": "2000-08-20",
+        "telefone": "(11) 2222-3333",
+        "email": "monica@msn.com",
+        "vaga": "Analista de Dados",
+        "id": 5
+      }
+    ]
+  }
