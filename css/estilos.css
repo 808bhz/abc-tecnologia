@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(203, 245, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     /* Reset nos espaçamentos */
@@ -40,7 +40,7 @@ main {
 DESAFIO: centralize o conteúdo COMPLETAMENTE, ou seja, centralize na horizontal e na vertical */
 footer {
     height: 200px;
-    background-color: darkblue;
+    background-color: rgb(39, 39, 39);
     color: white;
     text-align: center;
 
